@@ -17,4 +17,3 @@ A simple landing page, with a clean dark mode transition, made to practice and s
 ⚡️ Light + Dark mode\
 ⚡️ Fully Responsive
 
-Live version [here](https://amiraliesi83.github.io/Landing-Page/)
